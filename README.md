@@ -1,0 +1,1 @@
+# A basic project for learning the functionality of chess
